@@ -48,7 +48,6 @@ s
 ```{r}
 x <- 2+2
 x+3
-``` 
 The output of first line of code is not printed out because it is assigned to a variable instead.
 
 The second line of output is printed out instead, but this means that the calculated value has notbeen saved for future use.
